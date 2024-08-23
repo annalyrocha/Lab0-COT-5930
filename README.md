@@ -1,11 +1,8 @@
-# Lab0-COT-5930
-Prework Assignment
-
 # Prework Assignment - *Self Introduction*
 
 Submitted by: **Annaly Rocha**
 
-**StudentIntro**The app allows a student to input their first and last name, the name of their school, the current year they are in, the number of pets they have, and whether they would like to have more pets. The app then generates an introduction message based on the input data. [TODO] 
+**StudentIntro**The app allows a student to input their first and last name, the name of their school, the current year they are in, the number of pets they have, and whether they would like to have more pets. The app then generates an introduction message based on the input data. 
 
 Time spent: **12** hours spent in total
 
